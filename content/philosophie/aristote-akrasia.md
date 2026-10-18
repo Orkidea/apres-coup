@@ -1,5 +1,6 @@
 titre: L'akrasia
 figure: Aristote
+branche: fondamentaux
 reference: Éthique à Nicomaque, livre VII, chap. 1–10 (IVe s. av. J.-C.)
 accroche: Vous savez que c'est une mauvaise idée. Vous le faites quand même. Socrate disait que c'était impossible. Aristote prend le parti des faits.
 punch: Savoir ce qui est bien et faire le contraire : Socrate le jugeait impossible.

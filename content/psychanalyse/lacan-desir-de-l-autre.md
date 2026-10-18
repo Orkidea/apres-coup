@@ -1,5 +1,6 @@
 titre: Le désir est le désir de l'Autre
 figure: Jacques Lacan
+branche: lacan
 reference: Écrits (1966) ; Séminaire XI (1964) ; formule venue de la lecture de Hegel par Kojève
 accroche: Une formule qu'on récite souvent sans en voir les sens. Chacun change la manière d'entendre ce que l'on désire.
 punch: Je ne désire pas seul. Je désire depuis l'Autre.

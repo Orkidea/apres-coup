@@ -249,6 +249,7 @@ select.champ { border: 1.5px solid var(--filet); background: var(--feuille); bor
 
 <script>
 const FICHES = /*__FICHES__*/[];
+const BRANCHES = /*__BRANCHES__*/{};
 const OUVERTE_LE = Date.now();
 const BUILD_LE = /*__BUILD__*/0;
 const PAR_ID = Object.fromEntries(FICHES.map(f => [f.id, f]));
@@ -264,7 +265,7 @@ const decaler = (j, n) => { const [y, m, d] = j.split('-').map(Number); return j
 
 // ---------- État ----------
 function etatVide() {
-  return { debut: aujourdhui(), lues: {}, quiz: {}, notes: {}, reglages: { rythme: 'alterne', acces: 'jour', theme: 'auto', voix: '', vitesse: 1 }, reglagesLe: 0 };
+  return { debut: aujourdhui(), lues: {}, quiz: {}, notes: {}, reglages: { rythme: 'alterne', acces: 'jour', theme: 'auto', voix: '', vitesse: 1, exclues: [] }, reglagesLe: 0 };
 }
 function chargerLocal() {
   try { const s = localStorage.getItem(CLE); if (s) return Object.assign(etatVide(), JSON.parse(s)); } catch (e) {}
@@ -321,8 +322,14 @@ async function brancherSync() {
 
 // ---------- Calendrier des séances ----------
 function suite() {
-  const r = etat.reglages.rythme;
-  return r === 'alterne' ? FICHES : FICHES.filter(f => f.discipline === r);
+  const r = etat.reglages.rythme, ex = new Set(etat.reglages.exclues || []);
+  const liste = d => FICHES.filter(f => f.discipline === d && !ex.has(f.branche));
+  const psy = liste('psychanalyse'), philo = liste('philosophie');
+  if (r === 'philosophie') return philo.length ? philo : FICHES.filter(f => f.discipline === 'philosophie');
+  if (r === 'psychanalyse') return psy.length ? psy : FICHES.filter(f => f.discipline === 'psychanalyse');
+  const s = [];
+  for (let i = 0; i < Math.max(psy.length, philo.length); i++) { if (psy[i]) s.push(psy[i]); if (philo[i]) s.push(philo[i]); }
+  return s.length ? s : FICHES;
 }
 function indexDuJour() { return Math.max(0, ecart(etat.debut, aujourdhui())); }
 function ficheDuJour() { const s = suite(); return s[indexDuJour() % s.length]; }
@@ -666,6 +673,10 @@ function rendreReglages() {
       ${seg('rythme', [['alterne', 'Les deux, en alternance'], ['philosophie', 'Philosophie seule'], ['psychanalyse', 'Psychanalyse seule']])}
     </div>
     <div class="reglage">
+      <h2>Branches</h2><p>Les sujets qui composent ta suite. Une branche encore mince reviendra vite ; d'autres séances s'y ajoutent au fil du temps.</p>
+      ${Object.keys(BRANCHES).map(d => `<span class="etiquette" style="margin-top:10px">${NOM_DISC[d]}</span><div class="filtres" data-branches>${BRANCHES[d].map(([c, l]) => { const n = FICHES.filter(f => f.branche === c).length; return `<button class="filtre" data-b="${c}" aria-pressed="${!(r.exclues || []).includes(c)}" ${n ? '' : 'disabled'}>${esc(l)} · ${n}</button>`; }).join('')}</div>`).join('')}
+    </div>
+    <div class="reglage">
       <h2>Accès</h2><p>Une séance par jour, comme un rendez-vous ; ou tout le corpus ouvert pour réviser.</p>
       ${seg('acces', [['jour', 'Une séance par jour'], ['tout', 'Tout le corpus']])}
     </div>
@@ -694,6 +705,13 @@ function rendreReglages() {
         : `<button class="bouton secondaire" id="raz">Repartir de la séance n° 1</button>`}</div>
     </div>
   </section>`;
+  for (const g of $vue.querySelectorAll('[data-branches]')) g.onclick = e => {
+    const b = e.target.closest('[data-b]'); if (!b) return;
+    const c = b.dataset.b, ex = new Set(r.exclues || []);
+    ex.has(c) ? ex.delete(c) : ex.add(c);
+    if (FICHES.every(f => ex.has(f.branche))) return;
+    r.exclues = [...ex]; etat.reglagesLe = Date.now(); enregistrer(); rendreReglages();
+  };
   for (const g of $vue.querySelectorAll('.segments')) g.onclick = e => {
     const b = e.target.closest('[data-v]'); if (!b) return;
     const cle = g.dataset.cle; r[cle] = cle === 'vitesse' ? Number(b.dataset.v) : b.dataset.v;

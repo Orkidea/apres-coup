@@ -1,5 +1,6 @@
 titre: La capacité de rêverie
 figure: Wilfred R. Bion
+branche: objet
 reference: Learning from Experience (1962) ; A Theory of Thinking, Int. J. Psycho-Anal. 43 (1962), repris dans Second Thoughts (1967)
 accroche: Avant de pouvoir penser, le bébé a besoin que quelqu'un accueille ce qu'il ne peut pas supporter. Bion appelle cet accueil la rêverie.
 punch: La pensée ne vient pas d'abord de la pensée. Elle vient d'être accueilli.

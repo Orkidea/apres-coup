@@ -1,5 +1,6 @@
 titre: Le maître et l'esclave
 figure: G. W. F. Hegel
+branche: politique
 reference: Phénoménologie de l'esprit, chap. IV, A, § 178–196 (1807)
 accroche: Deux consciences se rencontrent et chacune veut être reconnue par l'autre. L'une risque sa vie, l'autre cède. La suite renverse tout ce qu'on attendait.
 punch: Le maître a gagné le combat. C'est l'esclave qui gagne l'histoire.

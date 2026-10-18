@@ -1,5 +1,6 @@
 titre: La confusion de langue
 figure: Sándor Ferenczi
+branche: objet
 reference: Confusion de langue entre les adultes et l'enfant (congrès de Wiesbaden, septembre 1932 ; publié en 1933)
 accroche: En 1932, Ferenczi lit à Wiesbaden un texte que Freud lui avait demandé de ne pas présenter. Il y soutient que l'enfant et l'adulte qui abuse de lui ne parlent pas la même langue.
 punch: L'enfant demande de la tendresse. L'adulte répond dans la langue de la passion.

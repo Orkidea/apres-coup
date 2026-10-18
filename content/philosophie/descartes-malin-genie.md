@@ -1,5 +1,6 @@
 titre: Le malin génie
 figure: René Descartes
+branche: epistemologie
 reference: Méditations métaphysiques, I et II (1641 en latin, 1647 en français)
 accroche: Descartes imagine un être tout-puissant occupé à le tromper sur tout. Il en sort la seule certitude qu'aucune tromperie ne peut atteindre.
 punch: Qu'il me trompe tant qu'il voudra : pour être trompé, il faut être.

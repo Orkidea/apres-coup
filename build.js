@@ -9,6 +9,23 @@ import { fileURLToPath } from 'node:url';
 const ICI = dirname(fileURLToPath(import.meta.url));
 const DISCIPLINES = ['philosophie', 'psychanalyse'];
 
+// Branches : le premier élément est le code écrit dans « branche: » de chaque fiche.
+const BRANCHES = {
+  philosophie: [
+    ['fondamentaux', 'Grands fondamentaux'],
+    ['epistemologie', 'Épistémologie et philosophie des sciences'],
+    ['politique', 'Philosophie politique'],
+    ['histoire', 'Philosophie de l\'histoire'],
+    ['droit', 'Philosophie du droit'],
+    ['langage', 'Langage et philosophie analytique'],
+  ],
+  psychanalyse: [
+    ['freud', 'Freud et la métapsychologie'],
+    ['objet', 'Relations d\'objet et développement'],
+    ['lacan', 'Lacan et l\'école lacanienne'],
+  ],
+};
+
 // Ordre de parution : alternance philosophie / psychanalyse, les résonances voisines.
 // Une fiche absente de cette liste paraît à la suite, dans l'ordre alphabétique.
 const ORDRE = `
@@ -60,6 +77,7 @@ function controler(fiches) {
   const positions = [0, 0, 0, 0];
   for (const f of fiches) {
     const E = m => erreurs.push(`${f.id} : ${m}`), A = m => alertes.push(`${f.id} : ${m}`);
+    if (!(BRANCHES[f.discipline] || []).some(([c]) => c === f.branche)) E(`branche inconnue « ${f.branche || ''} »`);
     for (const champ of ['titre', 'figure', 'reference', 'accroche', 'punch', 'idee']) if (!f[champ]) E(`champ manquant « ${champ} »`);
     const aVerifier = f.statut === 'a_verifier';
     if (aVerifier) A('fiche ancienne, pas encore revérifiée en ligne');
@@ -119,7 +137,7 @@ if (!process.argv.includes('--check')) {
   const fiches2 = JSON.parse(JSON.stringify(fiches), (k, v) => typeof v === 'string' && k !== 'id' ? typo(v) : v);
   const donnees = JSON.stringify(fiches2).replace(/</g, '\\u003c');
   if (!gabarit.includes('/*__FICHES__*/[]')) throw new Error('marqueur /*__FICHES__*/[] absent du gabarit');
-  const page = gabarit.replace('/*__FICHES__*/[]', donnees).replace('/*__BUILD__*/0', String(Date.now()));
+  const page = gabarit.replace('/*__FICHES__*/[]', donnees).replace('/*__BRANCHES__*/{}', JSON.stringify(BRANCHES)).replace('/*__BUILD__*/0', String(Date.now()));
   writeFileSync(join(ICI, 'app.html'), page);
   console.log('\napp.html écrit (version Claude).');
 

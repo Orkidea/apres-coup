@@ -1,5 +1,6 @@
 titre: Répéter au lieu de se souvenir
 figure: Sigmund Freud
+branche: freud
 reference: Remémoration, répétition et perlaboration (1914)
 accroche: Le patient ne se souvient pas de ce qu'il a oublié. Il le rejoue, avec l'analyste. Freud fait de cet obstacle le levier même de la cure.
 punch: Ce qu'on ne peut pas se rappeler, on le répète.

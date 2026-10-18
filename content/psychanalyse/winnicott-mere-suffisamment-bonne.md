@@ -1,5 +1,6 @@
 titre: La mère suffisamment bonne
 figure: Donald W. Winnicott
+branche: objet
 reference: Objets transitionnels et phénomènes transitionnels (lu en 1951, publié en 1953) ; repris dans Jeu et réalité (1971)
 accroche: Winnicott n'a jamais demandé aux mères d'être parfaites. Il a décrit une mère qui échoue, juste ce qu'il faut, et au bon moment.
 punch: Après avoir donné l'illusion, la mère a pour tâche la désillusion.

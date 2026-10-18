@@ -1,5 +1,6 @@
 titre: L'épochè
 figure: Edmund Husserl
+branche: epistemologie
 reference: Idées directrices pour une phénoménologie, I, § 27–32 (1913)
 accroche: Husserl ne doute pas que le monde existe. Il décide simplement de ne plus s'en servir, et c'est ainsi qu'il le voit vraiment.
 punch: Ne pas nier le monde. Le mettre entre parenthèses.

@@ -1,5 +1,6 @@
 titre: Le désir, essence de l'homme
 figure: Baruch Spinoza
+branche: fondamentaux
 reference: Éthique, III, prop. 6–9 et Définitions des affects, 1 ; IV, prop. 7 (1677)
 accroche: Nous ne désirons pas une chose parce qu'elle est bonne. Nous la jugeons bonne parce que nous la désirons. Spinoza retourne la morale comme un gant.
 punch: Ce n'est pas parce qu'une chose est bonne que nous la désirons. C'est l'inverse.

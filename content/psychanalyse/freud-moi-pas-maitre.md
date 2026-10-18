@@ -1,5 +1,6 @@
 titre: Les trois blessures narcissiques
 figure: Sigmund Freud
+branche: freud
 reference: Une difficulté de la psychanalyse (1917)
 accroche: Copernic, Darwin, Freud. La liste a l'air d'un coup d'orgueil. Freud y décrit plutôt pourquoi on ne veut pas entendre la psychanalyse.
 punch: Après Copernic et Darwin, la troisième humiliation : le moi n'est pas maître dans sa propre maison.

@@ -1,5 +1,6 @@
 titre: Ce dont on ne peut parler
 figure: Ludwig Wittgenstein
+branche: langage
 reference: Tractatus logico-philosophicus, 5.6, 6.522, 6.54, 7 (1921 en allemand, 1922 en anglais)
 accroche: La dernière phrase du Tractatus est souvent lue comme un rappel à l'ordre. Wittgenstein y voyait plutôt l'essentiel : ce qui compte vraiment ne se dit pas.
 punch: Les limites de mon langage sont les limites de mon monde.

@@ -1,5 +1,6 @@
 titre: L'inquiétante étrangeté
 figure: Sigmund Freud
+branche: freud
 reference: Das Unheimliche, Imago, t. V (1919) ; trad. M. Bonaparte et E. Marty (1933)
 accroche: Ce qui nous glace n'est pas l'inconnu. C'est le familier qui revient là où on ne l'attendait pas. Freud mène l'enquête dans un dictionnaire.
 punch: L'étrangement inquiétant, c'est le familier qui revient d'ailleurs.

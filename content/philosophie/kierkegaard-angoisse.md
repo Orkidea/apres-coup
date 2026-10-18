@@ -1,5 +1,6 @@
 titre: L'angoisse, vertige de la liberté
 figure: Søren Kierkegaard
+branche: fondamentaux
 reference: Le Concept d'angoisse (1844), sous le pseudonyme de Vigilius Haufniensis
 accroche: La peur a un objet. L'angoisse n'en a pas, ou plutôt son objet est un rien. Kierkegaard y voit la marque même de la liberté.
 punch: L'angoisse n'a pas d'objet. Elle a un possible.

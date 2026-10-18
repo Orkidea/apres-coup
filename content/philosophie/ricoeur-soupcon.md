@@ -1,5 +1,6 @@
 titre: Les maîtres du soupçon
 figure: Paul Ricœur
+branche: fondamentaux
 reference: De l'interprétation. Essai sur Sigmund Freud, livre I (1965)
 accroche: Marx, Nietzsche, Freud : trois pensées que tout oppose. Ricœur montre qu'elles font le même geste, et qu'il ne suffit pas de démasquer pour comprendre.
 punch: Après Marx, Nietzsche et Freud, la conscience n'est plus crue sur parole.

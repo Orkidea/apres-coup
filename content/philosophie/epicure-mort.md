@@ -1,5 +1,6 @@
 titre: La mort n'est rien pour nous
 figure: Épicure
+branche: fondamentaux
 reference: Lettre à Ménécée, 124–127 (IIIe s. av. J.-C.)
 accroche: Épicure propose un argument de quelques lignes contre la peur de mourir. Vingt-trois siècles plus tard, on le discute encore. Presque personne n'en est consolé.
 punch: Quand nous sommes, la mort n'est pas là. Quand elle est là, nous ne sommes plus.

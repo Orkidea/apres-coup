@@ -1,5 +1,6 @@
 titre: Le divertissement
 figure: Blaise Pascal
+branche: fondamentaux
 reference: Pensées, liasse « Divertissement », fragment Lafuma 136 / Sellier 168 (publication posthume, 1670)
 accroche: Pourquoi le roi, qui a tout, a-t-il besoin qu'on l'empêche de penser à lui ? Pascal a une réponse, et elle ne flatte personne.
 punch: Le chasseur ne veut pas le lièvre. Il veut la chasse.

@@ -1,5 +1,6 @@
 titre: Ne pas céder sur son désir
 figure: Jacques Lacan
+branche: lacan
 reference: Le Séminaire, livre VII. L'éthique de la psychanalyse (1959-1960), éd. J.-A. Miller, Seuil, 1986
 accroche: La phrase ressemble à un slogan de développement personnel. C'est presque l'inverse : une éthique qui se mesure à Antigone, et qui ne promet aucun bonheur.
 punch: Une seule faute, au regard de l'analyse : avoir cédé sur son désir.

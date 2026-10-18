@@ -1,5 +1,6 @@
 titre: Le pendule de la souffrance et de l'ennui
 figure: Arthur Schopenhauer
+branche: fondamentaux
 reference: Le Monde comme volonté et comme représentation, livre IV, § 57 (paru en décembre 1818, daté de 1819)
 accroche: Désirer fait souffrir. Obtenir ennuie. Schopenhauer en tire une conclusion que Freud, un siècle plus tard, reconnaîtra avoir rejointe sans le vouloir.
 punch: Le désir manque, l'ennui comble. La vie oscille entre les deux.

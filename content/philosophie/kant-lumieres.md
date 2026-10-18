@@ -1,5 +1,6 @@
 titre: Sapere aude
 figure: Emmanuel Kant
+branche: histoire
 reference: Réponse à la question : qu'est-ce que les Lumières ? (Berlinische Monatsschrift, décembre 1784)
 accroche: Kant ne dit pas que les hommes sont ignorants. Il dit qu'ils sont paresseux et lâches, et qu'ils ont de bonnes raisons de l'être.
 punch: Il est si commode d'être mineur.

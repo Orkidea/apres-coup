@@ -1,5 +1,6 @@
 titre: L'après-coup
 figure: Sigmund Freud
+branche: freud
 reference: Esquisse d'une psychologie scientifique, IIe partie (1895) ; L'Homme aux loups (1918)
 accroche: Un souvenir anodin peut devenir traumatique des années plus tard, sans que rien ne lui arrive. Freud nomme ce temps à rebours : la Nachträglichkeit.
 punch: Le trauma n'est jamais dans une seule scène. Il est entre deux.

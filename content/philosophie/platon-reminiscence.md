@@ -1,5 +1,6 @@
 titre: La réminiscence
 figure: Platon
+branche: epistemologie
 reference: Ménon, 80a–86c et 97a–98a (vers 385 av. J.-C.)
 accroche: Comment chercher ce qu'on ignore, puisqu'on ne saurait pas le reconnaître en le trouvant ? Platon répond : on ne découvre pas, on se ressouvient.
 punch: Apprendre, ce n'est pas recevoir. C'est se ressouvenir.

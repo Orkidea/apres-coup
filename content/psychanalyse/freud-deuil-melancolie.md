@@ -1,5 +1,6 @@
 titre: Deuil et mélancolie
 figure: Sigmund Freud
+branche: freud
 reference: Deuil et mélancolie (rédigé en 1915, publié en 1917)
 accroche: Dans le deuil, c'est le monde qui est devenu pauvre et vide. Dans la mélancolie, c'est le moi. Freud cherche ce qui fait basculer de l'un à l'autre.
 punch: Dans le deuil, le monde s'est vidé. Dans la mélancolie, c'est le moi.

@@ -1,5 +1,6 @@
 titre: Le ressentiment
 figure: Friedrich Nietzsche
+branche: fondamentaux
 reference: Généalogie de la morale, première dissertation, § 10–13 (1887)
 accroche: « Bon » et « méchant » ne sont pas des évidences. Nietzsche fait la généalogie d'une valeur qui naît, dit-il, d'une vengeance qui n'a pas pu avoir lieu.
 punch: Le ressentiment ne peut pas agir. Alors il invente des valeurs.

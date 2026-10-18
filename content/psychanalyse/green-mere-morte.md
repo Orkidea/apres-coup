@@ -1,5 +1,6 @@
 titre: La mère morte
 figure: André Green
+branche: objet
 reference: « La mère morte » (1980), dans Narcissisme de vie, narcissisme de mort, Minuit, 1983, p. 222-253
 accroche: Elle est là, elle nourrit, elle répond. Et pourtant elle est ailleurs. Green décrit ce que devient un enfant dont la mère est vivante, mais psychiquement absente.
 punch: La mère n'est pas morte. C'est sa présence psychique qui s'est éteinte.

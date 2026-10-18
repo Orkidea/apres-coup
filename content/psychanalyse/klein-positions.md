@@ -1,5 +1,6 @@
 titre: Les deux positions
 figure: Melanie Klein
+branche: objet
 reference: Notes sur quelques mécanismes schizoïdes (1946)
 accroche: Pour Melanie Klein, le nourrisson ne vit pas dans un monde paisible. Il aime et hait avec une violence extrême, et la santé psychique commence quand il découvre que c'est la même personne.
 punch: Grandir, c'est découvrir qu'on a haï ce qu'on aime.

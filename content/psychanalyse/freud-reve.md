@@ -1,5 +1,6 @@
 titre: Le travail du rêve
 figure: Sigmund Freud
+branche: freud
 reference: L'Interprétation du rêve, chap. II, VI et VII (parue en novembre 1899, datée de 1900)
 accroche: Le rêve n'est pas absurde, il est déformé. Freud décrit la machinerie qui transforme un désir en images, et donne du même coup une grammaire de l'inconscient.
 punch: Le rêve ne dit pas autre chose. Il dit la même chose, autrement.

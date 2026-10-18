@@ -1,5 +1,6 @@
 titre: Le stade du miroir
 figure: Jacques Lacan
+branche: lacan
 reference: Le stade du miroir comme formateur de la fonction du Je (Zurich, 1949), dans Écrits (1966)
 accroche: Un enfant qui ne tient pas encore debout jubile devant son reflet. Lacan y voit la naissance du moi, et celle d'un malentendu qui ne nous quittera plus.
 punch: Le moi se forme d'abord comme une image, vue du dehors.

@@ -1,5 +1,6 @@
 titre: Pas de faits, seulement des interprétations
 figure: Friedrich Nietzsche
+branche: epistemologie
 reference: Fragments posthumes, fin 1886–printemps 1887, 7 [60] ; Par-delà bien et mal, § 22 (1886)
 accroche: La phrase la plus citée de Nietzsche est souvent lue comme un « tout se vaut ». C'est presque l'inverse : une exigence de lecture bien plus rigoureuse.
 punch: Il n'y a pas de faits. Mais il y a de bonnes et de mauvaises lectures.

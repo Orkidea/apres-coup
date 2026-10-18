@@ -1,5 +1,6 @@
 titre: Fort-Da
 figure: Sigmund Freud
+branche: freud
 reference: Au-delà du principe de plaisir, chap. II (1920)
 accroche: Un enfant d'un an et demi jette une bobine, la fait revenir, recommence. Freud y voit l'énigme qui va bouleverser sa théorie : pourquoi répéter ce qui fait mal ?
 punch: L'enfant jette la bobine pour ne plus subir le départ de sa mère.
