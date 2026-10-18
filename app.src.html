@@ -477,7 +477,7 @@ function rendreBiblio() {
       <input class="recherche" id="recherche" type="search" placeholder="Chercher une notion, un auteur, une œuvre" value="${esc(requete)}" aria-label="Chercher">
     </div>
     <ul class="liste">${visibles.map(f => `<li><button class="item" data-id="${f.id}">
-      <span class="n">${pad(numeroDe(f.id))}</span>
+      <span class="n">${pad(filtre === 'tout' ? numeroDe(f.id) : s.filter(g => g.discipline === filtre).findIndex(g => g.id === f.id) + 1)}</span>
       <span class="t">${esc(f.titre)}</span>
       <span class="etat ${etat.lues[f.id] ? 'lu ' + f.discipline : ''}" title="${etat.lues[f.id] ? 'Lue' : 'Non lue'}"></span>
       <span class="s">${esc(f.figure)} · ${NOM_DISC[f.discipline]}</span>

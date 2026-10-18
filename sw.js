@@ -1,5 +1,5 @@
 // Après-coup — fonctionne hors connexion : l'app et ses polices sont mises en cache.
-const VERSION = 'apres-coup-4bfb231ffe64';
+const VERSION = 'apres-coup-eafdf6792dc1';
 const BASE = ['./', './index.html', './manifest.webmanifest', './icone-192.png', './icone-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(BASE)).then(() => self.skipWaiting()));
