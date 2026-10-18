@@ -249,6 +249,8 @@ select.champ { border: 1.5px solid var(--filet); background: var(--feuille); bor
 
 <script>
 const FICHES = /*__FICHES__*/[];
+const OUVERTE_LE = Date.now();
+const BUILD_LE = /*__BUILD__*/0;
 const PAR_ID = Object.fromEntries(FICHES.map(f => [f.id, f]));
 const NOM_DISC = { philosophie: 'Philosophie', psychanalyse: 'Psychanalyse' };
 const CLE = 'apres-coup.etat.v1';
@@ -371,6 +373,12 @@ const dateLongue = j => { const [y, m, d] = j.split('-').map(Number); return new
 
 // ---------- Navigation ----------
 let onglet = 'jour', lecture = null, filtre = 'tout', requete = '', confirmerRaz = false;
+const CLE_VUE = 'apres-coup.vue.v1';
+try { const v = JSON.parse(localStorage.getItem(CLE_VUE) || 'null'); if (v) { if (['jour', 'biblio', 'carnet', 'reglages'].includes(v.onglet)) onglet = v.onglet; if (v.lecture && PAR_ID[v.lecture]) lecture = v.lecture; } } catch (e) {}
+let derniereY = 0; try { derniereY = Number((JSON.parse(localStorage.getItem(CLE_VUE) || '{}')).y) || 0; } catch (e) {}
+function sauverVue() { try { localStorage.setItem(CLE_VUE, JSON.stringify({ onglet, lecture, y: lecture ? Math.round(window.scrollY) : 0 })); } catch (e) {} }
+let minuterieY = null;
+window.addEventListener('scroll', () => { clearTimeout(minuterieY); minuterieY = setTimeout(sauverVue, 250); }, { passive: true });
 const $vue = document.getElementById('vue');
 document.getElementById('onglets').addEventListener('click', e => {
   const b = e.target.closest('[data-onglet]'); if (!b) return;
@@ -379,6 +387,7 @@ document.getElementById('onglets').addEventListener('click', e => {
 function ouvrir(id) { arreterVoix(); lecture = id; rendre(); window.scrollTo(0, 0); }
 
 function rendre() {
+  sauverVue();
   document.getElementById('date-du-jour').textContent = dateLongue(aujourdhui());
   for (const b of document.querySelectorAll('.onglet')) b.setAttribute('aria-current', b.dataset.onglet === onglet ? 'page' : 'false');
   if (!FICHES.length) { $vue.innerHTML = '<section class="vue"><p class="vide" style="padding-top:24px">Ce fichier est le gabarit de l\'app, sans les fiches. Ouvre <strong>app.html</strong>, ou lance <code>node build.js</code> pour le reconstruire.</p></section>'; return; }
@@ -671,6 +680,12 @@ function rendreReglages() {
       ${seg('theme', [['auto', 'Comme l\'appareil'], ['light', 'Clair'], ['dark', 'Sombre']])}
     </div>
     <div class="reglage">
+      <h2>Contenu</h2>
+      <p>${FICHES.length} séances : ${FICHES.filter(f => f.discipline === 'philosophie').length} en philosophie, ${FICHES.filter(f => f.discipline === 'psychanalyse').length} en psychanalyse.</p>
+      <p>Version du contenu publiée le ${BUILD_LE ? new Date(BUILD_LE).toLocaleString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit' }) : 'date inconnue'}.</p>
+      <p>Cette page a été ouverte à ${new Date(OUVERTE_LE).toLocaleString('fr-FR', { day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit', second: '2-digit' })}.</p>
+    </div>
+    <div class="reglage">
       <h2>Progression</h2>
       <p>Commencée le ${dateLongue(etat.debut)}.</p>
       <span class="sync">${esc(syncTexte)}</span>
@@ -757,6 +772,7 @@ async function montrerCarte(f) {
 appliquerTheme();
 enregistrer();
 rendre();
+if (lecture && derniereY) setTimeout(() => window.scrollTo(0, derniereY), 60);
 if (synth) try { synth.onvoiceschanged = () => { if (onglet === 'reglages' && !lecture) rendreReglages(); }; } catch (e) {}
 document.addEventListener('visibilitychange', () => { if (!document.hidden && !lecture) rendre(); });
 brancherSync();

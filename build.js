@@ -119,7 +119,7 @@ if (!process.argv.includes('--check')) {
   const fiches2 = JSON.parse(JSON.stringify(fiches), (k, v) => typeof v === 'string' && k !== 'id' ? typo(v) : v);
   const donnees = JSON.stringify(fiches2).replace(/</g, '\\u003c');
   if (!gabarit.includes('/*__FICHES__*/[]')) throw new Error('marqueur /*__FICHES__*/[] absent du gabarit');
-  const page = gabarit.replace('/*__FICHES__*/[]', donnees);
+  const page = gabarit.replace('/*__FICHES__*/[]', donnees).replace('/*__BUILD__*/0', String(Date.now()));
   writeFileSync(join(ICI, 'app.html'), page);
   console.log('\napp.html écrit (version Claude).');
 
