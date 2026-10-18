@@ -38,3 +38,10 @@ reconstruit `app.html`. Une fiche en erreur bloque la construction.
 Règle : rien n'entre dans une fiche sans avoir été vérifié dans une source consultable en ligne.
 Les exemples sont des illustrations ; les vignettes cliniques inventées sont signalées « fictif ».
 Une fiche marquée `statut: a_verifier` est une ancienne fiche pas encore revérifiée.
+
+## Mise à jour du format (octobre 2026)
+
+- En-tête : `branche:` est obligatoire (codes dans `BRANCHES`, en tête de `build.js`) ; `citation_url` est obligatoire avec une `citation`.
+- Corps : au moins un encadré d'exemple, écrit en `> ` ; 750 à 1800 mots.
+- Sources : `- texte | url`, au moins deux, chacune avec un lien http(s).
+- Quiz : au moins trois questions de quatre choix ; la bonne réponse ne dépasse pas 1,4 fois le plus long distracteur.
