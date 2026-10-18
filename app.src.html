@@ -600,7 +600,7 @@ function brancherVoix(f) {
     const l = document.getElementById('v-lire'), p = document.getElementById('v-pause'), s = document.getElementById('v-stop');
     if (l) l.onclick = () => {
       arreterVoix(); enLecture = true;
-      const morceaux = [f.titre + '.', f.accroche, f.citation ? f.citation + '. ' + f.citation_source : f.repere, ...texteBrut(f.texte).split(/\n{2,}/)];
+      const morceaux = [f.titre + '.', f.accroche, f.citation ? 'Citation de ' + f.figure + '. ' + f.citation + '.' : 'Repère. ' + f.repere, ...texteBrut(f.texte).split(/\n{2,}/)];
       const voix = voixFr(), choisie = voix.find(v => v.name === etat.reglages.voix) || voix[0];
       morceaux.forEach((m, i) => {
         const u = new SpeechSynthesisUtterance(m); u.lang = 'fr-FR'; if (choisie) u.voice = choisie; u.rate = etat.reglages.vitesse || 1;
