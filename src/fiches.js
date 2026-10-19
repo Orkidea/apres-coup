@@ -107,7 +107,7 @@ export function controler(fiches) {
     const n = mots(f.texte);
     if (n < 750 || n > 1800) A(`corps de ${n} mots (attendu 750–1800)`);
     // Voix : la fiche est une leçon, pas un journal de vérification.
-    if (/\b(je n'ai|j'ai|je ne |je les |je le |je la |je précise|je traduis|je cite|je donne|je propose|je reprends|je m'appuie|ma traduction)\b/i.test(f.texte)) A('le corps parle à la première personne (« je ») : à reformuler');
+    if (/(je n'ai pas pu|je n'ai pas eu|j'ai pu|j'ai consulté|je précise|je traduis|je m'appuie|je ne l'affirme|ma traduction|cette fiche ne|les limites de cette fiche|selon wikipédia|selon stanford|l'encyclopédie de stanford)/i.test(f.texte)) A('le corps parle à la première personne (« je ») : à reformuler');
     // Appels de note : [^n] doit renvoyer à la source n.
     for (const m of f.texte.matchAll(/\[\^(\d+)\]/g)) if (Number(m[1]) < 1 || Number(m[1]) > f.sources.length) E(`appel de note [^${m[1]}] sans source correspondante`);
     if (f.quiz.length < 3) E(`${f.quiz.length} question(s), 3 attendues`);
