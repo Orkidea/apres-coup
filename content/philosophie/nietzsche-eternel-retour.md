@@ -44,7 +44,7 @@ L'idée rejoint une formule d'*Ecce Homo* : sa formule de la grandeur, écrit Ni
 
 ## Pourquoi c'est difficile
 
-L'idée est d'une simplicité vertigineuse et d'une exigence presque insupportable. Elle ne console pas : elle retire l'espoir d'un ailleurs ou d'une compensation. Elle n'accuse pas non plus : elle ne demande pas de juger sa vie, mais de savoir si l'on pourrait la vouloir. C'est en cela qu'elle prolonge la mort de Dieu : sans garantie extérieure, c'est à la vie elle-même de porter son poids.
+L'idée est d'une simplicité vertigineuse et d'une exigence presque insupportable. Elle ne console pas : elle retire l'espoir d'un ailleurs, d'un rachat ou d'une compensation future. Elle n'accuse pas non plus : elle ne demande pas de juger sa vie, mais de savoir si l'on pourrait la vouloir. C'est en cela qu'elle prolonge la mort de Dieu : sans garantie extérieure, c'est à la vie elle-même de porter son poids.
 ---
 ? Que propose le démon du § 341 ?
 - Une vie nouvelle, plus heureuse, après la mort
