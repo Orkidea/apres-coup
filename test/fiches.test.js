@@ -62,7 +62,7 @@ test('le contrôle repère les défauts', () => {
 });
 
 test('le contrôle signale la première personne', () => {
-  const f = lireTexte(MODELE.replace('Un cas.', 'Un cas que je n\'ai pas vérifié.'), 't', 'psychanalyse');
+  const f = lireTexte(MODELE.replace('Un cas.', 'Un cas que je n\'ai pas pu vérifier.'), 't', 'psychanalyse');
   assert.ok(controler([f]).alertes.some(a => a.includes('première personne')));
 });
 

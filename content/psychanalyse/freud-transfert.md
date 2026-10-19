@@ -1,6 +1,8 @@
 titre: Répéter au lieu de se souvenir
 figure: Sigmund Freud
 branche: freud
+fiabilite: primaire
+fiabilite_note: Le texte est cité d'après la traduction anglaise de James Strachey ; les citations françaises sont traduites ici.
 reference: Remémoration, répétition et perlaboration (1914)
 accroche: Le patient ne se souvient pas de ce qu'il a oublié. Il le rejoue, avec l'analyste. Freud fait de cet obstacle le levier même de la cure.
 punch: Ce qu'on ne peut pas se rappeler, on le répète.
@@ -10,39 +12,39 @@ citation_source: Freud, Remémoration, répétition et perlaboration (1914) — 
 citation_url: https://marcuse.faculty.history.ucsb.edu/classes/201/articles/1914FreudRemembering.pdf
 liens: platon-reminiscence, freud-apres-coup, freud-fort-da
 ---
-Ce court texte de 1914 fait partie des écrits techniques de Freud, rédigés pour les analystes. Il marque un tournant. La méthode cathartique des débuts, élaborée avec Breuer, visait la remémoration : retrouver la scène oubliée, la revivre avec l'affect qui l'accompagnait, et le symptôme devait disparaître. Freud constate que les choses ne se passent pas ainsi.
+Ce court texte de 1914 fait partie des écrits techniques de Freud, rédigés pour les analystes. Il marque un tournant. La méthode cathartique des débuts, élaborée avec Breuer, visait la remémoration : retrouver la scène oubliée, la revivre avec l'affect qui l'accompagnait, et le symptôme devait disparaître. Freud constate que les choses ne se passent pas ainsi[^1].
 
 ## L'agir à la place du souvenir
 
-Le patient, écrit Freud, ne se souvient en général de rien de ce qu'il a oublié et refoulé ; il l'agit. Il ne le reproduit pas comme souvenir mais comme acte. Il le répète, sans savoir, naturellement, qu'il le répète.
+Le patient, écrit Freud, ne se souvient en général de rien de ce qu'il a oublié et refoulé ; il l'agit. Il ne le reproduit pas comme souvenir mais comme acte. Il le répète, sans savoir, naturellement, qu'il le répète[^1].
 
 Freud donne des exemples précis. Le patient ne se souvient pas d'avoir été insolent et rebelle envers l'autorité de ses parents ; mais il se comporte ainsi envers le médecin. Il ne se souvient pas d'être resté bloqué, désemparé, dans ses recherches sexuelles d'enfant ; mais il apporte en séance un amas de rêves confus, se plaint que rien ne lui réussit, et déclare qu'il est voué à ne jamais mener à bien ce qu'il entreprend.
 
-Et Freud conclut : c'est là sa manière de se souvenir.
+Et Freud conclut : c'est là sa manière de se souvenir[^1].
 
-> **Exemple, fictif.** Un patient arrive en retard à presque chaque séance, avec une excuse différente à chaque fois. Il n'a aucun souvenir particulier d'avoir dû « mériter » l'attention de ses parents. Mais à chaque séance, il met l'analyste dans la position d'attendre, de s'impatienter peut-être, de le réprimander. Ce qu'il ne se rappelle pas, il le met en scène. La question n'est pas de corriger les retards, mais d'entendre ce qu'ils rejouent.
+> **Illustration, fictif.** Un patient arrive en retard à presque chaque séance, avec une excuse différente à chaque fois. Il n'a aucun souvenir particulier d'avoir dû « mériter » l'attention de ses parents. Mais à chaque séance, il met l'analyste dans la position d'attendre, de s'impatienter peut-être, de le réprimander. Ce qu'il ne se rappelle pas, il le met en scène. La question n'est pas de corriger les retards, mais d'entendre ce qu'ils rejouent.
 
 ## Le transfert comme répétition
 
-Le transfert, dit Freud, n'est lui-même qu'un fragment de répétition, et la répétition est le transfert du passé oublié, non seulement sur le médecin, mais sur tous les domaines de la situation présente.
+Le transfert, dit Freud, n'est lui-même qu'un fragment de répétition, et la répétition est le transfert du passé oublié, non seulement sur le médecin, mais sur tous les domaines de la situation présente[^1].
 
-C'est un renversement. Le transfert, qui apparaissait comme un obstacle, l'attachement ou l'hostilité du patient envers l'analyste, devient le lieu même où le passé se rend accessible. Freud l'avait dit deux ans plus tôt, dans « Sur la dynamique du transfert » (1912) : on ne peut tuer personne *in absentia* ou *in effigie*. Le conflit doit se présenter pour être traité.
+C'est un renversement. Le transfert, qui apparaissait comme un obstacle, l'attachement ou l'hostilité du patient envers l'analyste, devient le lieu même où le passé se rend accessible. Freud l'avait dit deux ans plus tôt, dans « Sur la dynamique du transfert » (1912) : on ne peut tuer personne *in absentia* ou *in effigie*. Le conflit doit se présenter pour être traité[^2].
 
-> **Exemple, fictif.** Une patiente est convaincue que son analyste la trouve ennuyeuse. Elle en guette les signes : un soupir, un silence un peu long. Elle n'a jamais formulé que sa mère, épuisée, l'écoutait d'une oreille distraite. Mais elle le revit, sur la scène de la séance. C'est là que cela peut enfin être reconnu, parce que cela se passe *maintenant*, avec quelqu'un qui ne réagit pas comme prévu.
+> **Illustration, fictif.** Une patiente est convaincue que son analyste la trouve ennuyeuse. Elle en guette les signes : un soupir, un silence un peu long. Elle n'a jamais formulé que sa mère, épuisée, l'écoutait d'une oreille distraite. Mais elle le revit, sur la scène de la séance. C'est là que cela peut enfin être reconnu, parce que cela se passe *maintenant*, avec quelqu'un qui ne réagit pas comme prévu.
 
 ## Un espace intermédiaire
 
-Freud décrit le transfert comme une zone intermédiaire entre la maladie et la vie réelle. La compulsion de répétition peut s'y manifester presque librement, mais dans un cadre. La maladie y est en quelque sorte rejouée sous les yeux de l'analyste, là où il peut travailler sur elle, et le chemin qui mène de la maladie au souvenir passe par là.
+Freud décrit le transfert comme une zone intermédiaire entre la maladie et la vie réelle. La compulsion de répétition peut s'y manifester presque librement, mais dans un cadre. La maladie y est en quelque sorte rejouée sous les yeux de l'analyste, là où il peut travailler sur elle, et le chemin qui mène de la maladie au souvenir passe par là[^1].
 
 Le maniement du transfert devient le moyen principal de dompter la compulsion de répétition et de la transformer en motif de remémoration.
 
 ## Perlaborer
 
-Reste un dernier temps, le plus long. Nommer une résistance ne la fait pas disparaître. Les jeunes analystes, remarque Freud, s'étonnent que le patient ne change pas alors qu'on lui a montré sa résistance. Il faut lui laisser le temps de s'enfoncer dans cette résistance qu'il ne connaît pas encore, de la *perlaborer*, *durcharbeiten* en allemand, « travailler à travers ».
+Reste un dernier temps, le plus long. Nommer une résistance ne la fait pas disparaître. Les jeunes analystes, remarque Freud, s'étonnent que le patient ne change pas alors qu'on lui a montré sa résistance. Il faut lui laisser le temps de s'enfoncer dans cette résistance qu'il ne connaît pas encore, de la *perlaborer*, *durcharbeiten* en allemand, « travailler à travers »[^3].
 
-Freud prévient : ce travail est une tâche pénible pour l'analysé et une épreuve de patience pour l'analyste. Mais c'est aussi la partie du travail qui produit le plus d'effet de transformation.
+Freud prévient : ce travail est une tâche pénible pour l'analysé et une épreuve de patience pour l'analyste. Mais c'est aussi la partie du travail qui produit le plus d'effet de transformation[^1].
 
-> **Exemple.** Comprendre un jour, en séance, qu'on choisit des partenaires qui ressemblent à un parent froid, c'est une découverte. Mais la découverte ne suffit pas : le lendemain, on se sent de nouveau attiré par la même froideur. Il faudra la reconnaître encore, dans d'autres situations, sous d'autres formes, des dizaines de fois, pour que quelque chose se déplace vraiment. C'est cela, perlaborer : non pas comprendre une fois, mais traverser plusieurs fois le même point.
+> **Illustration.** Comprendre un jour, en séance, qu'on choisit des partenaires qui ressemblent à un parent froid, c'est une découverte. Mais la découverte ne suffit pas : le lendemain, on se sent de nouveau attiré par la même froideur. Il faudra la reconnaître encore, dans d'autres situations, sous d'autres formes, des dizaines de fois, pour que quelque chose se déplace vraiment. C'est cela, perlaborer : non pas comprendre une fois, mais traverser plusieurs fois le même point.
 
 ## Pourquoi c'est important
 
@@ -55,12 +57,12 @@ Ce texte fixe une idée qui traverse toute la psychanalyse : on ne se libère pa
 - Il ne revient jamais, il reste définitivement enfoui
 = Le patient ne s'en souvient pas mais agit ce qu'il a oublié, sans le reconnaître comme répétition. C'est précisément l'écart avec la méthode cathartique, qui misait sur la remémoration. Le texte ne parle pas d'hallucinations, et l'enjeu est justement le retour du refoulé.
 
-? Quel exemple Freud donne-t-il du patient rebelle à l'autorité de ses parents ?
-- Il se souvient en détail de chaque dispute de son enfance
-* Il ne s'en souvient pas, mais se comporte ainsi envers le médecin
-- Il refuse de venir aux séances pendant plusieurs mois
-- Il se montre au contraire très soumis à toutes les autorités
-= Le patient n'a pas le souvenir de sa rébellion, mais il la rejoue face à l'analyste : c'est sa manière de se souvenir. Les autres conduites ne figurent pas dans l'exemple de Freud.
+? Une patiente oublie régulièrement de payer ses séances, puis s'excuse avec embarras, comme une enfant prise en faute. Comment l'aborder dans l'esprit du texte de 1914 ?
+- Comme une simple distraction, sans intérêt pour la cure
+- En rappelant fermement la règle, jusqu'à ce que l'oubli cesse
+* Comme une répétition à entendre : elle agit peut-être ce qu'elle ne se rappelle pas
+- En interrompant la cure, puisqu'elle ne respecte pas le cadre
+= Ce qu'on ne peut se rappeler, on le répète, et le transfert en est le lieu. Il ne s'agit pas d'abord de corriger la conduite, mais d'entendre ce qu'elle rejoue.
 
 ? Quel rapport Freud établit-il entre transfert et répétition ?
 - Ils n'ont aucun rapport entre eux

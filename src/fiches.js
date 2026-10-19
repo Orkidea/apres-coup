@@ -85,8 +85,8 @@ export function lireFiche(chemin, discipline) {
 
 export const mots = s => s.replace(/\[\^\d+\]/g, '').replace(/[*_#>]/g, '').split(/\s+/).filter(Boolean).length;
 
-// Passe à true une fois toutes les fiches dotées d'un champ « fiabilite ».
-const STRICT = false;
+// Toutes les fiches doivent déclarer leur fiabilité.
+const STRICT = true;
 
 /** Contrôle la forme d'un ensemble de fiches. Renvoie { erreurs, alertes }. */
 export function controler(fiches) {

@@ -1,54 +1,54 @@
 titre: La mère suffisamment bonne
 figure: Donald W. Winnicott
 branche: objet
+fiabilite: primaire
+fiabilite_note: L'article de 1953 est cité dans sa réimpression anglaise, les citations étant traduites ici ; Winnicott a développé ces thèmes dans d'autres écrits que la fiche ne couvre pas.
 reference: Objets transitionnels et phénomènes transitionnels (lu en 1951, publié en 1953) ; repris dans Jeu et réalité (1971)
 accroche: Winnicott n'a jamais demandé aux mères d'être parfaites. Il a décrit une mère qui échoue, juste ce qu'il faut, et au bon moment.
 punch: Après avoir donné l'illusion, la mère a pour tâche la désillusion.
 idee: Au début, la mère s'adapte presque complètement aux besoins du nourrisson, qui vit l'illusion de créer ce qu'il trouve. Puis elle s'adapte de moins en moins complètement : c'est la désillusion. Dans l'entre-deux apparaît l'objet transitionnel, à mi-chemin du dedans et du dehors.
 citation: The good-enough mother, as I have stated, starts off with an almost complete adaptation to her infant's needs
-citation_source: Winnicott, « Transitional Objects and Transitional Phenomena » (lu à la Société britannique de psychanalyse le 30 mai 1951, publié en 1953), p. 238 de la réimpression — « La mère suffisamment bonne, comme je l'ai dit, commence par une adaptation presque complète aux besoins de son nourrisson » (ma traduction)
+citation_source: Winnicott, « Transitional Objects and Transitional Phenomena » (lu à la Société britannique de psychanalyse le 30 mai 1951, publié en 1953), p. 238 de la réimpression — « La mère suffisamment bonne, comme je l'ai dit, commence par une adaptation presque complète aux besoins de son nourrisson »
 citation_url: https://hegel1313.law.columbia.edu/files/2026/05/winnicott_transitional_objects_and_transitional_phenomena.pdf
 liens: lacan-stade-du-miroir, klein-positions, bion-reverie
 ---
-Le texte où apparaît la « mère suffisamment bonne » (*good-enough mother*) porte un titre qui ne la nomme pas : « Objets transitionnels et phénomènes transitionnels », sous-titré « une étude de la première possession non-moi ». Winnicott l'a lu devant la Société britannique de psychanalyse le 30 mai 1951 et publié dans l'*International Journal of Psycho-Analysis* en 1953. Il sera repris dans *Through Paediatrics to Psycho-Analysis* (1958), puis dans *Jeu et réalité* (1971). Les citations qui suivent viennent de la réimpression, et je les traduis.
+Le texte où apparaît la « mère suffisamment bonne » (*good-enough mother*) porte un titre qui ne la nomme pas : « Objets transitionnels et phénomènes transitionnels », sous-titré « une étude de la première possession non-moi ». Winnicott l'a lu devant la Société britannique de psychanalyse le 30 mai 1951 et publié dans l'*International Journal of Psycho-Analysis* en 1953. Il sera repris dans *Through Paediatrics to Psycho-Analysis* (1958), puis dans *Jeu et réalité* (1971)[^1][^3].
 
 ## Pas de nourrisson sans soins
 
-Pour comprendre ce que Winnicott fait de la mère, il faut partir d'une phrase plus ancienne. Dans l'introduction que Masud Khan donne en 1958 à l'ouvrage de Winnicott, il cite une discussion de 1940 : « Il n'existe pas de nourrisson, ce qui veut dire, bien sûr, que chaque fois qu'on trouve un nourrisson, on trouve des soins maternels. » La formule, que l'on traduit souvent par « un bébé, ça n'existe pas », ne nie rien du bébé. Elle dit qu'on ne peut pas le décrire seul : l'unité de départ est le couple formé par l'enfant et ceux qui s'en occupent.
+Pour comprendre ce que Winnicott fait de la mère, il faut partir d'une phrase plus ancienne. Dans l'introduction que Masud Khan donne en 1958 à l'ouvrage de Winnicott, il cite une discussion de 1940 : « Il n'existe pas de nourrisson, ce qui veut dire, bien sûr, que chaque fois qu'on trouve un nourrisson, on trouve des soins maternels »[^2]. La formule, que l'on traduit souvent par « un bébé, ça n'existe pas », ne nie rien du bébé. Elle dit qu'on ne peut pas le décrire seul : l'unité de départ est le couple formé par l'enfant et ceux qui s'en occupent.
 
 ## L'adaptation, puis l'échec
 
-C'est dans ce cadre que s'inscrit le passage célèbre : « La mère suffisamment bonne, comme je l'ai dit, commence par une adaptation presque complète aux besoins de son nourrisson. » Au fil du temps, poursuit Winnicott, elle s'adapte de moins en moins complètement.
+C'est dans ce cadre que s'inscrit le passage célèbre : « La mère suffisamment bonne, comme je l'ai dit, commence par une adaptation presque complète aux besoins de son nourrisson. » Au fil du temps, poursuit Winnicott, elle s'adapte de moins en moins complètement[^1].
 
-Au début, cette adaptation presque totale donne au bébé quelque chose d'essentiel : l'occasion d'une illusion. Winnicott écrit que le sein est « créé par le nourrisson, encore et encore, à partir de sa capacité d'aimer », et que la mère fournit « l'occasion de l'illusion que son sein fait partie du nourrisson ». L'enfant éprouve que le monde répond à ce qu'il attend.
+Au début, cette adaptation presque totale donne au bébé quelque chose d'essentiel : l'occasion d'une illusion. Winnicott écrit que le sein est « créé par le nourrisson, encore et encore, à partir de sa capacité d'aimer », et que la mère fournit « l'occasion de l'illusion que son sein fait partie du nourrisson »[^1]. L'enfant éprouve que le monde répond à ce qu'il attend.
 
-Mais cette illusion n'est pas faite pour durer. Winnicott le dit sans détour : la tâche principale de la mère, à côté de l'occasion de l'illusion, est la désillusion. La mère « suffisamment bonne » est donc aussi celle qui, peu à peu, cesse d'être exactement ajustée.
+Mais cette illusion n'est pas faite pour durer. Winnicott le dit sans détour : la tâche principale de la mère, à côté de l'occasion de l'illusion, est la désillusion[^1]. La mère « suffisamment bonne » est donc aussi celle qui, peu à peu, cesse d'être exactement ajustée.
 
-> **Exemple (une illustration, pas un cas de Winnicott).** Un nourrisson pleure ; presque aussitôt, la tétée arrive. Quelques mois plus tard, le même enfant doit attendre, en protestant, que le biberon soit prêt. Ce petit délai, répété, lui apprend que ce qui vient ne sort pas de son seul désir. C'est ce que l'on peut entendre par « désillusion » : une découverte progressive, et non un choc.
+> **Illustration (pas un cas de Winnicott).** Un nourrisson pleure ; presque aussitôt, la tétée arrive. Quelques mois plus tard, le même enfant doit attendre, en protestant, que le biberon soit prêt. Ce petit délai, répété, lui apprend que ce qui vient ne sort pas de son seul désir. C'est ce que l'on peut entendre par « désillusion » : une découverte progressive, et non un choc.
 
-Ailleurs, selon Wikipédia, Winnicott décrit des parents qui n'ont pas besoin d'être parfaitement accordés, mais « ordinairement dévoués » (*ordinarily devoted*) ou « suffisamment bons ». Il écrit aussi que les fondations de la santé sont posées par la mère ordinaire dans ses soins ordinaires et affectueux à son propre bébé (*The Child, the Family, and the Outside World*, cité par la même page).
+Ailleurs, Winnicott décrit des parents qui n'ont pas besoin d'être parfaitement accordés, mais « ordinairement dévoués » (*ordinarily devoted*) ou « suffisamment bons »[^4]. Il écrit aussi que les fondations de la santé sont posées par la mère ordinaire dans ses soins ordinaires et affectueux à son propre bébé (*The Child, the Family, and the Outside World*)[^4].
 
 ## L'objet transitionnel
 
-Winnicott observe que beaucoup de nourrissons s'attachent à un objet précis, un ours en peluche par exemple. Il introduit les termes d'« objet transitionnel » et de « phénomènes transitionnels » pour désigner cette zone d'expérience, qu'il situe dans l'*aire intermédiaire d'expérience*, « entre le pouce et l'ours en peluche ».
+Winnicott observe que beaucoup de nourrissons s'attachent à un objet précis, un ours en peluche par exemple. Il introduit les termes d'« objet transitionnel » et de « phénomènes transitionnels » pour désigner cette zone d'expérience, qu'il situe dans l'*aire intermédiaire d'expérience*, « entre le pouce et l'ours en peluche »[^1].
 
-Il y voit une réponse à une tâche humaine que l'on n'achève jamais, celle de « maintenir la réalité intérieure et la réalité extérieure séparées mais reliées entre elles ». L'objet n'est ni tout à fait dans la tête de l'enfant, ni tout à fait dans le monde : il appartient aux deux.
+Il y voit une réponse à une tâche humaine que l'on n'achève jamais, celle de « maintenir la réalité intérieure et la réalité extérieure séparées mais reliées entre elles »[^1]. L'objet n'est ni tout à fait dans la tête de l'enfant, ni tout à fait dans le monde : il appartient aux deux.
 
-Winnicott décrit le comportement des parents avec une précision presque comique. Ils en viennent à connaître sa valeur et l'emportent avec eux en voyage. La mère le laisse devenir sale, voire malodorant. Il ne doit pas changer, sauf si c'est l'enfant qui le change. Et à la fin, écrit-il : « Il n'est pas oublié et il n'est pas pleuré. »
+Winnicott décrit le comportement des parents avec une précision presque comique. Ils en viennent à connaître sa valeur et l'emportent avec eux en voyage. La mère le laisse devenir sale, voire malodorant. Il ne doit pas changer, sauf si c'est l'enfant qui le change. Et à la fin, écrit-il : « Il n'est pas oublié et il n'est pas pleuré »[^1].
 
-> **Exemple (une illustration).** Un enfant de trois ans refuse qu'on lave son lapin en tissu, devenu gris et usé. Ce n'est pas un défaut d'hygiène qu'il défend : c'est l'objet tel qu'il est. Chez Winnicott, l'objet « ne doit jamais changer, sauf si c'est l'enfant qui le change » : le scénario n'est pas de lui, mais la règle qu'il énonce s'y reconnaît.
+> **Illustration.** Un enfant de trois ans refuse qu'on lave son lapin en tissu, devenu gris et usé. Ce n'est pas un défaut d'hygiène qu'il défend : c'est l'objet tel qu'il est. Chez Winnicott, l'objet « ne doit jamais changer, sauf si c'est l'enfant qui le change » : le scénario n'est pas de lui, mais la règle qu'il énonce s'y reconnaît.
 
 ## La question qu'on ne pose pas
 
-Le passage le plus fin de l'article porte sur le statut de cet objet. Est-il trouvé, ou créé ? Winnicott cite la question qu'on serait tenté de poser : « L'as-tu conçu, ou t'a-t-il été présenté du dehors ? » Et il ajoute deux phrases : « Le point important est qu'aucune décision n'est attendue sur ce point. La question ne doit pas être formulée. »
+Le passage le plus fin de l'article porte sur le statut de cet objet. Est-il trouvé, ou créé ? Winnicott cite la question qu'on serait tenté de poser : « L'as-tu conçu, ou t'a-t-il été présenté du dehors ? » Et il ajoute deux phrases : « Le point important est qu'aucune décision n'est attendue sur ce point. La question ne doit pas être formulée »[^1].
 
 Le paradoxe d'un objet à la fois trouvé et créé n'est donc pas à trancher : on ne demande pas à l'enfant de décider.
 
 ## Au-delà du berceau
 
-L'objet transitionnel n'est pas voué à rester. Mais ce qu'il a ouvert reste. Winnicott écrit que les phénomènes transitionnels se diffusent « sur tout le champ culturel », et il parle de « l'expérience intense qui appartient aux arts et à la religion ». L'objet passe, mais l'aire intermédiaire qu'il a ouverte se prolonge dans la vie culturelle de l'adulte.
-
-Il faut garder à l'esprit les limites de ce qu'on a ici. Les passages traduits viennent d'un seul texte de 1953, que je cite dans sa réimpression. Winnicott a développé ces thèmes dans d'autres écrits, que cette fiche ne couvre pas.
+L'objet transitionnel n'est pas voué à rester. Mais ce qu'il a ouvert reste. Winnicott écrit que les phénomènes transitionnels se diffusent « sur tout le champ culturel », et il parle de « l'expérience intense qui appartient aux arts et à la religion »[^1]. L'objet passe, mais l'aire intermédiaire qu'il a ouverte se prolonge dans la vie culturelle de l'adulte.
 ---
 ? Que veut dire, chez Winnicott, la formule « il n'existe pas de nourrisson » ?
 * Que partout où l'on trouve un nourrisson, on trouve des soins maternels
@@ -64,12 +64,12 @@ Il faut garder à l'esprit les limites de ce qu'on a ici. Les passages traduits 
 - Elle est la même pendant toute l'enfance, sans changement
 = Winnicott écrit que la mère suffisamment bonne commence par une adaptation presque complète aux besoins du nourrisson, puis s'adapte de moins en moins complètement. Les autres évolutions ne sont pas celles qu'il décrit.
 
-? Quelle tâche Winnicott attribue-t-il à la mère, à côté de l'occasion de l'illusion ?
-- L'apprentissage de la propreté
-- La transmission des interdits familiaux
-- La préparation à l'école
-* La désillusion
-= « La tâche principale de la mère, à côté de l'occasion de l'illusion, est la désillusion. » Elle est progressive, ajustée à ce que l'enfant supporte.
+? Une jeune mère culpabilise de ne pas toujours répondre à la seconde aux pleurs de son bébé de huit mois. Que lui dirait la notion de mère suffisamment bonne ?
+- Qu'elle doit s'efforcer d'atteindre une adaptation parfaite à chaque instant
+* Qu'une adaptation de moins en moins complète fait partie de sa tâche : la désillusion
+- Que le bébé n'a besoin d'aucune adaptation à cet âge
+- Qu'elle devrait confier l'enfant à quelqu'un de plus disponible
+= Après une adaptation presque complète au début, la mère s'adapte de moins en moins complètement : c'est la désillusion, tâche principale à côté de l'illusion. Les petits délais, supportables, font partie de ce que Winnicott décrit.
 
 ? Quelle question Winnicott juge-t-il qu'on ne doit pas poser à propos de l'objet transitionnel ?
 - « Où as-tu trouvé cet objet que tu emmènes partout ? »

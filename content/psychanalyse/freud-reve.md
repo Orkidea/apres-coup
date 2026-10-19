@@ -1,6 +1,8 @@
 titre: Le travail du rêve
 figure: Sigmund Freud
 branche: freud
+fiabilite: mixte
+fiabilite_note: Le livre est cité d'après la traduction anglaise d'A. A. Brill (1913) et des présentations encyclopédiques ; la citation du chapitre VII est traduite ici depuis l'anglais.
 reference: L'Interprétation du rêve, chap. II, VI et VII (parue en novembre 1899, datée de 1900)
 accroche: Le rêve n'est pas absurde, il est déformé. Freud décrit la machinerie qui transforme un désir en images, et donne du même coup une grammaire de l'inconscient.
 punch: Le rêve ne dit pas autre chose. Il dit la même chose, autrement.
@@ -10,7 +12,7 @@ citation_source: Freud, L'Interprétation du rêve, chap. VII — traduit de l'a
 citation_url: https://en.wikipedia.org/wiki/The_Interpretation_of_Dreams
 liens: nietzsche-perspectivisme, lacan-desir-de-l-autre, bion-reverie
 ---
-*Die Traumdeutung* paraît en novembre 1899, avec la date de 1900 sur la page de titre : Freud voulait que le livre ouvre le siècle. Le premier tirage, six cents exemplaires, mettra huit ans à s'écouler. Freud le considérera pourtant toujours comme son livre le plus important.
+*Die Traumdeutung* paraît en novembre 1899, avec la date de 1900 sur la page de titre : Freud voulait que le livre ouvre le siècle. Le premier tirage, six cents exemplaires, mettra huit ans à s'écouler[^1]. Freud le considérera pourtant toujours comme son livre le plus important.
 
 Sa thèse tient en une phrase : le rêve est l'accomplissement, déguisé, d'un désir, refoulé.
 
@@ -20,23 +22,25 @@ Freud distingue deux niveaux. Le *contenu manifeste* est ce dont le rêveur se s
 
 Le rêve n'est donc pas un produit du hasard ni un simple bruit de l'activité cérébrale nocturne. C'est une formation psychique qui a un sens. Pourquoi, alors, le contenu manifeste est-il si étrange ? Parce qu'il a subi une *déformation*, exigée par la *censure* : le désir ne peut pas se présenter tel quel, il doit passer déguisé.
 
-> **Exemple, celui de Freud.** Le rêve qui ouvre la méthode, au chapitre II, est le rêve de « l'injection faite à Irma », fait par Freud lui-même en juillet 1895. Irma est une patiente dont le traitement n'a pas entièrement réussi. Dans le rêve, Freud découvre qu'elle souffre d'un mal organique, puis qu'un collègue lui a fait une injection malpropre. Le désir apparaît à l'analyse : n'être pas responsable de l'échec de la cure. Le rêve l'accomplit en rejetant la faute sur d'autres.
+> **Illustration, celui de Freud.** Le rêve qui ouvre la méthode, au chapitre II, est le rêve de « l'injection faite à Irma », fait par Freud lui-même à l'été 1895[^1]. Irma est une patiente dont le traitement n'a pas entièrement réussi. Dans le rêve, Freud découvre qu'elle souffre d'un mal organique, puis qu'un collègue lui a fait une injection malpropre. Le désir apparaît à l'analyse : n'être pas responsable de l'échec de la cure. Le rêve l'accomplit en rejetant la faute sur d'autres[^3].
+
+Freud fait ce rêve pendant un séjour d'été au château de Bellevue, près de Vienne. Cinq ans plus tard, dans une lettre à Fliess, il imagine en plaisantant une plaque de marbre : « Dans cette maison, le 24 juillet 1895, le secret des rêves fut révélé au Dr Sigm. Freud »[^1].
 
 ## Les opérations du travail du rêve
 
 Le chapitre VI décrit les opérations par lesquelles les pensées latentes deviennent contenu manifeste.
 
-**La condensation.** Le contenu manifeste est bref, les pensées latentes abondantes. Un seul élément du rêve en représente plusieurs : une personne composite qui a le visage de l'un, la voix d'un autre, le métier d'un troisième ; un mot inventé qui fusionne deux mots. Chaque élément est *surdéterminé* : il renvoie à plusieurs pensées à la fois.
+**La condensation.** Le contenu manifeste est bref, les pensées latentes abondantes. Un seul élément du rêve en représente plusieurs : une personne composite qui a le visage de l'un, la voix d'un autre, le métier d'un troisième ; un mot inventé qui fusionne deux mots. Chaque élément est *surdéterminé* : il renvoie à plusieurs pensées à la fois[^2].
 
 **Le déplacement.** L'intensité psychique se détache d'un élément important pour se porter sur un élément accessoire. Ce qui est essentiel dans les pensées latentes peut n'apparaître qu'en marge du rêve, et un détail insignifiant peut occuper toute la scène. C'est l'opération principale au service de la censure.
 
 **La prise en compte de la figurabilité.** Les pensées doivent être converties en images ou en scènes. Les relations logiques, « si », « parce que », « bien que », n'ont pas de figuration directe ; le rêve les rend par juxtaposition, succession, transformation d'une image en une autre.
 
-**L'élaboration secondaire.** Une dernière retouche, proche de la pensée éveillée, donne au rêve une façade d'intelligibilité, un semblant de récit. C'est souvent elle qu'il faut traverser en premier.
+**L'élaboration secondaire.** Une dernière retouche, proche de la pensée éveillée, donne au rêve une façade d'intelligibilité, un semblant de récit. C'est souvent elle qu'il faut traverser en premier[^2].
 
-> **Exemple, fictif.** Quelqu'un rêve d'une femme qui a les cheveux de sa sœur, porte la blouse de son ancienne institutrice et parle avec l'accent de sa belle-mère. Dans le rêve, tout cela va de soi. À l'analyse, chacune de ces trois figures se rattache à une même pensée : quelqu'un qui le juge. C'est la condensation : un seul personnage pour une pensée qui en traverse plusieurs.
+> **Illustration, fictif.** Quelqu'un rêve d'une femme qui a les cheveux de sa sœur, porte la blouse de son ancienne institutrice et parle avec l'accent de sa belle-mère. Dans le rêve, tout cela va de soi. À l'analyse, chacune de ces trois figures se rattache à une même pensée : quelqu'un qui le juge. C'est la condensation : un seul personnage pour une pensée qui en traverse plusieurs.
 
-> **Exemple, fictif.** Un autre rêve longuement d'une valise égarée dans une gare, et mentionne au passage, presque sans y penser, un enterrement aperçu par la fenêtre du train. Ce qui l'occupe au réveil, c'est la valise. Ce que les associations font apparaître, c'est l'enterrement. C'est le déplacement : l'accent est mis sur le détail, l'essentiel passe en marge.
+> **Illustration, fictif.** Un autre rêve longuement d'une valise égarée dans une gare, et mentionne au passage, presque sans y penser, un enterrement aperçu par la fenêtre du train. Ce qui l'occupe au réveil, c'est la valise. Ce que les associations font apparaître, c'est l'enterrement. C'est le déplacement : l'accent est mis sur le détail, l'essentiel passe en marge.
 
 ## Une méthode
 
@@ -44,9 +48,9 @@ L'interprétation ne consiste pas à appliquer une clé des songes, où un serpe
 
 ## La portée
 
-La phrase célèbre du chapitre VII dit l'enjeu : l'interprétation des rêves est la voie royale vers la connaissance de l'inconscient dans la vie psychique. Car les mécanismes du rêve ne lui sont pas propres. On les retrouve dans le symptôme, le lapsus, l'acte manqué, le mot d'esprit.
+La phrase célèbre du chapitre VII dit l'enjeu : l'interprétation des rêves est la voie royale vers la connaissance de l'inconscient dans la vie psychique[^1]. Car les mécanismes du rêve ne lui sont pas propres. On les retrouve dans le symptôme, le lapsus, l'acte manqué, le mot d'esprit.
 
-Lacan relira plus tard la condensation et le déplacement à partir de la linguistique, comme métaphore et métonymie, dans « L'instance de la lettre dans l'inconscient » (1957). Mais le point de départ est freudien : l'inconscient n'est pas un chaos, il a une logique, et cette logique se laisse lire.
+Lacan reprendra plus tard le déplacement comme une métonymie, une figure de la langue[^2]. Mais le point de départ est freudien : l'inconscient n'est pas un chaos, il a une logique, et cette logique se laisse lire.
 ---
 ? Quelle est la thèse centrale de L'Interprétation du rêve ?
 - Le rêve est le produit aléatoire de l'activité cérébrale nocturne
@@ -55,12 +59,12 @@ Lacan relira plus tard la condensation et le déplacement à partir de la lingui
 - Le rêve est un souvenir fidèle des événements de la journée
 = Pour Freud, le rêve a un sens : il accomplit un désir, sous une forme déformée par la censure. Il s'oppose explicitement à la thèse du produit aléatoire, aux lectures prophétiques, et les restes du jour ne sont qu'un matériau parmi d'autres.
 
-? Quel désir Freud découvre-t-il dans le rêve de l'injection faite à Irma ?
-- Le désir d'épouser sa patiente Irma
-* Le désir de ne pas être responsable de l'échec du traitement
-- Le désir de devenir chirurgien plutôt que neurologue
-- Le désir de quitter Vienne pour s'installer ailleurs
-= Le rêve rejette sur d'autres la faute des douleurs persistantes d'Irma : Freud s'y disculpe. C'est l'exemple qui ouvre la méthode au chapitre II. Les autres désirs ne correspondent pas à son analyse.
+? Une patiente rêve qu'elle cherche longuement ses clés dans un parc, et mentionne en passant qu'un homme âgé la regardait depuis un banc. Ses associations la ramènent sans cesse à cet homme. Quel mécanisme est à l'œuvre ?
+- La condensation : plusieurs personnes fusionnent en une seule
+* Le déplacement : l'intensité porte sur les clés, l'essentiel est en marge
+- La figurabilité : une relation logique est mise en image
+- L'élaboration secondaire : le rêve reçoit une façade cohérente
+= L'accent du récit est sur un détail (les clés) alors que les associations désignent un élément marginal (l'homme du banc) : c'est le déplacement, au service de la censure.
 
 ? Que désigne le déplacement dans le travail du rêve ?
 - Le changement de lieu ou de décor entre deux scènes successives d'un même rêve

@@ -1,6 +1,8 @@
 titre: Fort-Da
 figure: Sigmund Freud
 branche: freud
+fiabilite: mixte
+fiabilite_note: La scène est citée d'après la traduction anglaise de C. J. M. Hubback (1922) ; la relecture de Lacan, d'après une page de référence lacanienne qui cite les Écrits.
 reference: Au-delà du principe de plaisir, chap. II (1920)
 accroche: Un enfant d'un an et demi jette une bobine, la fait revenir, recommence. Freud y voit l'énigme qui va bouleverser sa théorie : pourquoi répéter ce qui fait mal ?
 punch: L'enfant jette la bobine pour ne plus subir le départ de sa mère.
@@ -8,48 +10,48 @@ idee: L'enfant met en scène la disparition et le retour d'un objet, en prononç
 repere: Fort : « parti, loin ». Da : « voilà, là ». L'enfant observé est un petit-fils de Freud, fils de sa fille Sophie. Sophie meurt en 1920, pendant que Freud travaille à ce livre.
 liens: pascal-divertissement, freud-transfert, freud-deuil-melancolie
 ---
-*Au-delà du principe de plaisir* est un livre étrange et spéculatif, que Freud présente lui-même avec précaution. Il part d'un constat : certains phénomènes ne s'expliquent pas par la recherche du plaisir. Les rêves des névroses traumatiques, après la guerre, ramènent sans cesse le rêveur à la scène de l'accident. Les patients répètent en séance ce qui les a fait souffrir. Et un enfant joue.
+*Au-delà du principe de plaisir* est un livre étrange et spéculatif, que Freud présente lui-même avec précaution. Il part d'un constat : certains phénomènes ne s'expliquent pas par la recherche du plaisir. Les rêves des névroses traumatiques, après la guerre, ramènent sans cesse le rêveur à la scène de l'accident. Les patients répètent en séance ce qui les a fait souffrir. Et un enfant joue[^1].
 
 ## La scène
 
-Le petit garçon a dix-huit mois. Il est sage, ne pleure pas quand sa mère s'absente pour quelques heures. Mais il a une habitude : il jette au loin tous les petits objets qu'il trouve, dans un coin, sous le lit, en émettant un long « o-o-o-o » plein d'intérêt et de satisfaction. Sa mère et l'observateur s'accordent à y entendre le mot allemand *fort*, « parti ».
+Le petit garçon a dix-huit mois. Il est sage, ne pleure pas quand sa mère s'absente pour quelques heures. Mais il a une habitude : il jette au loin tous les petits objets qu'il trouve, dans un coin, sous le lit, en émettant un long « o-o-o-o » plein d'intérêt et de satisfaction. Sa mère et l'observateur s'accordent à y entendre le mot allemand *fort*, « parti »[^1].
 
-Un jour, Freud observe la version complète du jeu. L'enfant tient une bobine en bois entourée d'une ficelle. Il la jette avec adresse par-dessus le bord de son petit lit à rideaux, où elle disparaît, en disant son « o-o-o-o ». Puis il la ramène en tirant sur la ficelle et salue sa réapparition d'un joyeux *da*, « voilà ». Disparition, retour.
+Un jour, Freud observe la version complète du jeu. L'enfant tient une bobine en bois entourée d'une ficelle. Il la jette avec adresse par-dessus le bord de son petit lit à rideaux, où elle disparaît, en disant son « o-o-o-o ». Puis il la ramène en tirant sur la ficelle et salue sa réapparition d'un joyeux *da*, « voilà ». Disparition, retour[^1].
 
 ## Ce que le jeu accomplit
 
-Freud relie le jeu aux absences de la mère. L'enfant ne peut pas les empêcher ; il les met en scène avec les objets à sa portée. Ce faisant, il passe de la passivité à l'activité : il était d'abord passif, surpris par l'événement ; il prend maintenant un rôle actif en le répétant comme un jeu, même si l'événement était désagréable.
+Freud relie le jeu aux absences de la mère. L'enfant ne peut pas les empêcher ; il les met en scène avec les objets à sa portée. Ce faisant, il passe de la passivité à l'activité : il était d'abord passif, surpris par l'événement ; il prend maintenant un rôle actif en le répétant comme un jeu, même si l'événement était désagréable[^1].
 
 Freud évoque aussi une autre satisfaction, celle d'une petite vengeance : « Eh bien, va-t'en, je n'ai pas besoin de toi, c'est moi qui t'envoie promener. »
 
-> **Exemple, ordinaire.** Un enfant qui vient d'être vacciné rentre à la maison et « pique » ses peluches avec un crayon, en les grondant gentiment. Il n'a pas aimé la piqûre. Il ne la rejoue pas pour le plaisir de la douleur ; il la rejoue pour passer du côté de celui qui pique. C'est le premier sens du fort-da : maîtriser activement ce qu'on a subi passivement.
+> **Illustration, ordinaire.** Un enfant qui vient d'être vacciné rentre à la maison et « pique » ses peluches avec un crayon, en les grondant gentiment. Il n'a pas aimé la piqûre. Il ne la rejoue pas pour le plaisir de la douleur ; il la rejoue pour passer du côté de celui qui pique. C'est le premier sens du fort-da : maîtriser activement ce qu'on a subi passivement.
 
 ## Le problème
 
 Mais une difficulté persiste. Le premier acte, la disparition, était répété inlassablement par l'enfant, comme un jeu en soi, bien plus souvent que le jeu complet avec son retour joyeux. Pourquoi répéter ce qui, en soi, est pénible ?
 
-La maîtrise est une réponse. Freud la retient, mais il ne s'en contente pas. Avec les rêves traumatiques et la répétition dans le transfert, ce petit jeu le conduit à une hypothèse : il existerait une *compulsion de répétition* plus originaire que le principe de plaisir. Au chapitre V, cette hypothèse le mènera aux pulsions qui visent à rétablir un état antérieur, et à l'idée que le but de toute vie est la mort. C'est la naissance de la pulsion de mort.
+La maîtrise est une réponse. Freud la retient, mais il ne s'en contente pas. Avec les rêves traumatiques et la répétition dans le transfert, ce petit jeu le conduit à une hypothèse : il existerait une *compulsion de répétition* plus originaire que le principe de plaisir. Au chapitre V, cette hypothèse le mènera aux pulsions qui visent à rétablir un état antérieur, et à l'idée que le but de toute vie est la mort[^1]. C'est la naissance de la pulsion de mort[^3].
 
-> **Exemple, clinique et fictif.** Une femme quitte systématiquement ses compagnons avant qu'ils puissent la quitter. Chaque rupture la fait souffrir, et elle recommence. On peut y lire la logique de l'enfant à la bobine : faire partir l'autre plutôt que subir son départ. Et on peut aussi se demander, avec le Freud de 1920, pourquoi ce scénario douloureux se répète avec tant d'insistance, comme s'il obéissait à autre chose qu'à la recherche du plaisir.
+> **Illustration, clinique et fictif.** Une femme quitte systématiquement ses compagnons avant qu'ils puissent la quitter. Chaque rupture la fait souffrir, et elle recommence. On peut y lire la logique de l'enfant à la bobine : faire partir l'autre plutôt que subir son départ. Et on peut aussi se demander, avec le Freud de 1920, pourquoi ce scénario douloureux se répète avec tant d'insistance, comme s'il obéissait à autre chose qu'à la recherche du plaisir.
 
 ## Une bobine et un deuil
 
-Il est difficile de ne pas lire ces pages à la lumière de ce que vivait Freud en les écrivant. Sophie, la mère de l'enfant, meurt en 1920, emportée pendant l'épidémie de grippe. Freud est alors en plein travail sur le livre. Le musée Freud de Londres suggère que l'achever fut peut-être pour lui une manière de maîtriser cette perte, comme l'enfant maîtrisait les absences de sa mère.
+Il est difficile de ne pas lire ces pages à la lumière de ce que vivait Freud en les écrivant. Sophie, la mère de l'enfant, meurt en 1920, emportée pendant l'épidémie de grippe. Freud est alors en plein travail sur le livre. Le musée Freud de Londres suggère que l'achever fut peut-être pour lui une manière de maîtriser cette perte, comme l'enfant maîtrisait les absences de sa mère[^2].
 
 ## La relecture lacanienne
 
-Lacan reviendra souvent à cette scène. Il y lit l'entrée de l'enfant dans le langage : l'opposition de deux sons, *o* et *a*, fait exister l'absence comme telle. Avec deux syllabes, l'enfant ne retient pas sa mère, mais il peut la nommer quand elle n'est pas là. Le symbole commence par la perte de la chose.
+Lacan reviendra sur cette scène. Il y entend une opposition de sons élémentaire, « une paire de sons modulés sur la présence et l'absence », et lit le jeu comme l'entrée de l'enfant dans l'ordre symbolique : le symbole s'emploie en l'absence de la chose, le mot est « une présence faite d'absence » (*Écrits*)[^4]. Avec deux syllabes, l'enfant ne retient pas sa mère, mais il peut la nommer quand elle n'est pas là.
 
-> **Exemple.** Un enfant de deux ans dit « maman partie » quand sa mère sort, et le répète pendant un moment, sur un ton presque satisfait. Il ne fait pas revenir sa mère. Mais il a désormais un mot pour son absence, un mot qu'il peut dire, répéter, adresser. L'absence n'est plus seulement un vide : elle est entrée dans la langue.
+> **Illustration.** Un enfant de deux ans dit « maman partie » quand sa mère sort, et le répète pendant un moment, sur un ton presque satisfait. Il ne fait pas revenir sa mère. Mais il a désormais un mot pour son absence, un mot qu'il peut dire, répéter, adresser. L'absence n'est plus seulement un vide : elle est entrée dans la langue.
 
 Les deux lectures ne s'excluent pas. Toutes deux font de ce jeu minuscule le premier acte d'un sujet qui, faute de pouvoir retenir ce qu'il aime, apprend à le perdre lui-même.
 ---
-? Que met en scène le jeu de la bobine, selon Freud ?
-* La disparition et le retour de la mère, que l'enfant ne peut empêcher
-- Le désir de l'enfant d'obtenir de nouveaux jouets de ses parents
-- Une imitation des gestes que le père accomplit à son travail
-- Un simple exercice de coordination motrice, sans valeur psychique
-= Freud rapporte le jeu aux absences de la mère : l'enfant rejoue avec un objet ce qu'il subit. Il ne s'agit ni de l'envie de jouets, ni d'imitation du père, ni d'un exercice moteur.
+? Rentrée d'un séjour à l'hôpital, une fillette joue des heures au docteur et fait des piqûres à sa poupée. Quel aspect du fort-da retrouve-t-on ?
+* Elle passe de la passivité à l'activité : elle fait subir ce qu'elle a subi
+- Elle cherche à oublier l'hôpital en pensant à tout autre chose
+- Elle imite un métier qu'elle a choisi pour plus tard
+- Elle exprime un plaisir pur, sans rapport avec l'épreuve vécue
+= Comme l'enfant à la bobine, elle rejoue activement ce qu'elle a vécu passivement, même si c'était désagréable. Freud y voit une forme de maîtrise.
 
 ? Quel déplacement le jeu permet-il à l'enfant d'opérer ?
 - De l'activité à la passivité : il se laisse enfin consoler
@@ -75,3 +77,4 @@ Les deux lectures ne s'excluent pas. Toutes deux font de ce jeu minuscule le pre
 - Freud, Beyond the Pleasure Principle, trad. C. J. M. Hubback (1922), Project Gutenberg | https://gutenberg.org/ebooks/76031
 - Freud Museum London, « 1920–2020 : Freud and the pandemic » (Sophie, la bobine et le livre) | https://stories.freud.org.uk/1920-2020-freud-and-pandemic/6/
 - Compulsion de répétition (Wikipédia) | https://en.wikipedia.org/wiki/Repetition_compulsion
+- nosubject.com, « Absence » (page de discussion : le fort-da chez Lacan, Écrits, trad. Sheridan, p. 65) | https://nosubject.com/Talk:Absence
