@@ -1,5 +1,5 @@
 // Après-coup — fonctionne hors connexion : l'app et ses polices sont mises en cache.
-const VERSION = 'apres-coup-8ab72eafd8c0';
+const VERSION = 'apres-coup-8169bcf806fb';
 const BASE = ['./', './index.html', './manifest.webmanifest', './icone-192.png', './icone-512.png', './polices/gloock-latin-400-normal.woff2', './polices/gloock-latin-ext-400-normal.woff2', './polices/newsreader-latin-400-italic.woff2', './polices/newsreader-latin-400-normal.woff2', './polices/newsreader-latin-500-italic.woff2', './polices/newsreader-latin-500-normal.woff2', './polices/newsreader-latin-600-normal.woff2', './polices/newsreader-latin-ext-400-italic.woff2', './polices/newsreader-latin-ext-400-normal.woff2', './polices/newsreader-latin-ext-500-italic.woff2', './polices/newsreader-latin-ext-500-normal.woff2', './polices/newsreader-latin-ext-600-normal.woff2', './polices/spline-sans-mono-latin-400-normal.woff2', './polices/spline-sans-mono-latin-500-normal.woff2', './polices/spline-sans-mono-latin-ext-400-normal.woff2', './polices/spline-sans-mono-latin-ext-500-normal.woff2'];
 // Au-delà de ce délai, une connexion trop lente cède la place à la version en cache.
 const DELAI_RESEAU = 3000;
