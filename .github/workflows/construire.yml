@@ -1,0 +1,35 @@
+# Contrôle les fiches, lance les tests, reconstruit l'app et publie le résultat.
+# Il suffit donc de pousser une fiche (.md) : le site se met à jour tout seul.
+name: Construire
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: construire
+  cancel-in-progress: false
+jobs:
+  construire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Tests
+        run: npm test
+      - name: Construction
+        run: node build.js
+      - name: Publier si le site a changé
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "Reconstruction automatique du site"
+            git push
+          else
+            echo "Site déjà à jour."
+          fi

@@ -1,0 +1,12 @@
+{
+  "name": "apres-coup",
+  "private": true,
+  "type": "module",
+  "description": "Une séance par jour de philosophie ou de psychanalyse.",
+  "scripts": {
+    "build": "node build.js",
+    "check": "node build.js --check",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=20" }
+}
