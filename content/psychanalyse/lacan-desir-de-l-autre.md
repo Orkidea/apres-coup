@@ -81,7 +81,7 @@ Trois points sont établis. La formule vient de la lecture de Hegel par Kojève.
 = Dans le roman de Cazotte (1772), le diable demande « Che vuoi ? » à Alvaro lors de sa première apparition. Lacan l'a intégrée à son graphe pour poser la question de ce que l'Autre veut.
 ---
 - Stanford Encyclopedia of Philosophy, « Jacques Lacan » (le slogan « man's desire is the desire of the Other ») | https://plato.stanford.edu/entries/lacan/
-- La demande de reconnaissance de Lacan à Hegel (citations des Écrits, p. 627, et de Kojève, « désir d'un autre désir »), L'Harmattan | https://www.editions-harmattan.fr/media/107060/download/La%20demande%20de%20reconnaissance%20de%20Lacan%20%C3%A0%20Hegel.pdf
+- Christophe Laudou, « La demande de reconnaissance de Lacan à Hegel », colloque d'Évian, 2004 (citations des Écrits, p. 627, et de Kojève), L'Harmattan | https://www.editions-harmattan.fr/media/107060/download/La%20demande%20de%20reconnaissance%20de%20Lacan%20%C3%A0%20Hegel.pdf
 - nosubject.com, « Desire of the Other » | https://www.nosubject.com/Desire_of_the_Other
 - nosubject.com, « Desire » (besoin, demande, désir ; Che vuoi ?) | https://nosubject.com/Desire
 - Wikipédia (anglais), « The Devil in Love » | https://en.wikipedia.org/wiki/The_Devil_in_Love_(novel)
