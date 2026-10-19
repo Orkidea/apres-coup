@@ -51,7 +51,8 @@ nietzsche-freud anzieu-moi-peau weil-attention dolto-image-du-corps
 canguilhem-normal-pathologique hegel-kojeve-lacan beauvoir-deuxieme-sexe
 merleau-ponty-corps-propre banquet-freud-lacan levinas-visage murdoch-attention
 foucault-histoire-de-la-folie nietzsche-eternel-retour aulagnier-violence-interpretation
-spinoza-ecriture nietzsche-medecin-de-soi augustin-interpreter nietzsche-homo-natura`.trim().split(/\s+/);
+spinoza-ecriture nietzsche-medecin-de-soi augustin-interpreter nietzsche-homo-natura
+foucault-aveu bruno-fureurs-heroiques`.trim().split(/\s+/);
 
 /** Lit le texte d'une fiche (4 blocs séparés par une ligne « --- »). */
 export function lireTexte(brut, id, discipline) {
