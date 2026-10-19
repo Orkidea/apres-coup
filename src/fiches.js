@@ -44,7 +44,13 @@ freud-fort-da schopenhauer-pendule freud-deuil-melancolie epicure-mort
 freud-inquietante-etrangete kierkegaard-angoisse klein-positions aristote-akrasia
 winnicott-mere-suffisamment-bonne husserl-epoche bion-reverie kant-lumieres
 ferenczi-confusion wittgenstein-taire green-mere-morte nietzsche-ressentiment
-lacan-ne-pas-ceder ricoeur-soupcon`.trim().split(/\s+/);
+lacan-ne-pas-ceder ricoeur-soupcon
+anna-freud-defenses arendt-banalite-du-mal sartre-mauvaise-foi
+laplanche-seduction-generalisee bergson-duree kohut-self nietzsche-mort-de-dieu
+nietzsche-freud anzieu-moi-peau weil-attention dolto-image-du-corps
+canguilhem-normal-pathologique hegel-kojeve-lacan beauvoir-deuxieme-sexe
+merleau-ponty-corps-propre banquet-freud-lacan levinas-visage murdoch-attention
+foucault-histoire-de-la-folie nietzsche-eternel-retour`.trim().split(/\s+/);
 
 /** Lit le texte d'une fiche (4 blocs séparés par une ligne « --- »). */
 export function lireTexte(brut, id, discipline) {

@@ -1,6 +1,6 @@
 titre: La mère morte
 figure: André Green
-branche: objet
+branche: france
 fiabilite: secondaire
 fiabilite_note: Le texte de Green n'a pas été consulté : la fiche passe par des commentateurs qui le citent. Les notions de « deuil blanc », de « trou » et de désinvestissement, souvent associées à ce texte, ne sont pas reprises, faute de source consultée qui les rapporte.
 reference: « La mère morte » (1980), dans Narcissisme de vie, narcissisme de mort, Minuit, 1983, p. 222-253
