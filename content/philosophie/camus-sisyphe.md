@@ -42,6 +42,8 @@ D'où la fin de l'essai : la lutte elle-même vers les sommets suffit à remplir
 
 > **Illustration (un parallèle avec la clinique).** Une patiente qui s'occupe depuis des années d'un parent malade dit : « Ça ne mènera nulle part, il ne guérira pas. » Le soin ne consiste pas à lui promettre un sens qui viendrait d'ailleurs. Il peut l'aider à retrouver, dans ce qu'elle fait, ce qui reste à elle : un choix, une manière de le faire, une fierté. Camus n'offre pas de consolation ; il propose une manière de tenir.
 
+Le renversement est complet. Le châtiment imaginé par les dieux supposait que l'absence de but rende la tâche insupportable. Camus répond que le but n'était pas ce qui donnait sa valeur à l'effort. Il ne prétend pas que Sisyphe soit heureux comme on l'est en vacances ; il dit qu'il faut l'imaginer ainsi, comme un choix de regard, et peut-être comme un exercice pour le lecteur.
+
 ## Kafka
 
 L'essai comporte un appendice sur Kafka. Camus y soutient que Kafka décrit admirablement l'absurde, mais qu'il échoue comme écrivain absurde, parce que son œuvre garde une lueur d'espérance[^2]. C'est dire l'exigence de Camus : l'absurde ne tolère ni Dieu ni promesse cachée.
