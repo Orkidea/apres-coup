@@ -52,7 +52,12 @@ canguilhem-normal-pathologique hegel-kojeve-lacan beauvoir-deuxieme-sexe
 merleau-ponty-corps-propre banquet-freud-lacan levinas-visage murdoch-attention
 foucault-histoire-de-la-folie nietzsche-eternel-retour aulagnier-violence-interpretation
 spinoza-ecriture nietzsche-medecin-de-soi augustin-interpreter nietzsche-homo-natura
-foucault-aveu bruno-fureurs-heroiques diderot-encyclopedie galilee-livre-de-la-nature hegel-le-vrai-est-le-tout`.trim().split(/\s+/);
+foucault-aveu bruno-fureurs-heroiques diderot-encyclopedie galilee-livre-de-la-nature hegel-le-vrai-est-le-tout
+freud-signorelli epictete-ce-qui-depend-de-nous winnicott-vrai-faux-self hobbes-etat-de-nature
+schopenhauer-freud lacan-nom-du-pere hume-habitude freud-mot-d-esprit marx-fetichisme
+bowlby-attachement wittgenstein-freud klein-identification-projective camus-sisyphe
+freud-malaise aristote-amitie levi-strauss-efficacite-symbolique lacan-rsi
+erikson-crise-identite kernberg-organisation-limite oury-psychotherapie-institutionnelle`.trim().split(/\s+/);
 
 /** Lit le texte d'une fiche (4 blocs séparés par une ligne « --- »). */
 export function lireTexte(brut, id, discipline) {

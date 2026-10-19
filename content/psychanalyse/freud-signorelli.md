@@ -7,10 +7,10 @@ reference: Psychopathologie de la vie quotidienne (1901 ; en volume, 1904), chap
 accroche: Freud cherche le nom d'un peintre et ne le trouve pas. Deux autres noms lui viennent à la place, faux tous les deux. Il en tire une petite démonstration : on n'oublie pas au hasard.
 punch: Un oubli n'est pas un trou. C'est un détour.
 idee: Dans la Psychopathologie de la vie quotidienne, Freud montre que les oublis, les lapsus et les actes manqués ne sont pas des accidents. Ils obéissent à des motifs, souvent inconscients : quelque chose qu'on voulait ne pas penser s'est glissé dans le mécanisme de la mémoire ou de la parole.
-repere: Le texte paraît d'abord en revue en 1901, puis en volume en 1904. Il s'adresse à un large public : il ne parle ni de rêves ni de névroses, mais d'erreurs que tout le monde commet chaque jour.
+repere: Le texte paraît d'abord en revue en 1901, puis en volume en 1904, et sera sans cesse enrichi au fil des éditions. Il porte sur des erreurs que tout le monde commet chaque jour.
 liens: freud-reve, freud-moi-pas-maitre, lacan-desir-de-l-autre
 ---
-La *Psychopathologie de la vie quotidienne* est l'un des livres les plus lus de Freud, et l'un des plus simples d'accès. Il ne traite pas de malades, mais d'expériences ordinaires : un nom qui échappe, un mot qui se substitue à un autre en parlant, un objet égaré, un geste maladroit. Freud y défend une thèse qui va loin : ces ratés ne sont pas des hasards, ils ont un sens.
+La *Psychopathologie de la vie quotidienne* paraît en revue en 1901, puis en volume en 1904 ; Freud l'enrichira de matériaux nouveaux dans presque chaque édition[^3]. Le livre ne traite pas de malades, mais d'expériences ordinaires : un nom qui échappe, un mot qui se substitue à un autre en parlant, un objet égaré, un geste maladroit. Freud y défend une thèse qui va loin : ces ratés ne sont pas des hasards, ils ont un sens.
 
 ## Le nom du peintre
 
@@ -74,3 +74,4 @@ On a beaucoup discuté cette thèse, et l'on peut douter que chaque lapsus ait u
 ---
 - Freud, Psychopathology of Everyday Life, trad. A. A. Brill (1914), Projet Gutenberg (chap. I, II, V) | https://gutenberg.org/cache/epub/67332/pg67332-images.html
 - Freud, Psychopathology of Everyday Life, notice du Projet Gutenberg (traduction et édition) | https://gutenberg.org/ebooks/67332
+- Wikipédia (anglais), « The Psychopathology of Everyday Life » (publication, éditions) | https://en.wikipedia.org/wiki/The_Psychopathology_of_Everyday_Life
